@@ -1,0 +1,1 @@
+An Excel-based data analytics project exploring customer purchasing behaviour through data cleaning, transformation, PivotTables, and interactive dashboard visualizations to identify factors influencing bike purchases.
