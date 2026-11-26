@@ -68,8 +68,7 @@ All data is **synthetic**. I generated the four weeks of October 2026 sales, the
 
 ## How I built it
 
-I designed the workflow and the business rules, tested the output, and wrote this documentation. I used an AI assistant (Claude) to help write and debug the VBA code. [Edit this to be accurate about what you did yourself, for example: the rules you chose, the changes you made, what you tested.]
-
+I designed the workflow and the business rules, tested the output, and wrote this documentation. I used an AI assistant (Claude) to help write and debug the VBA code. 
 
 ## Repository contents
 
