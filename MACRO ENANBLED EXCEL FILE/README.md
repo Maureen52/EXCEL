@@ -75,8 +75,5 @@ I designed the workflow and the business rules, tested the output, and wrote thi
 
 - `Hardware_Store_Workbook.xlsm`: the workbook with sample data
 - `modHardwareReport.bas`: the VBA module (readable without opening Excel)
-- `screenshots/`: dashboard, `Data_Checks` and `Cleaning_Log`
-
-## Contact
-
-[Your name] | [LinkedIn link] | [email]
+- `Hardware_Store_Working`: the workbook where the Macro is run
+- `Hardware_Report_2026-10`: Macro generated report
